@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on SQL y Datos
 - 📫 How to reach me fertour.analitica@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Fernando
+- ⚡ Fun fact: Jugue al fútbol semiprofesional
 
 <!---
 FerT23/FerT23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
